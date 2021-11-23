@@ -1,0 +1,20 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; text-transform: capitalize;}
+
+html{font-size: 62.5%;}
+
+body{ background:lightblue;}
+
+
+.click-me{
+    justify-content: center;
+    text-align: center;
+}
+.title-h{
+    display: flex;
+    justify-content: center;
+}
+
+.buton{
+    margin: 10px;
+    font-size: 20px;
+}
